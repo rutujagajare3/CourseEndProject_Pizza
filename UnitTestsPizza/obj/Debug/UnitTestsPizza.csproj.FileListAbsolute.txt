@@ -1,0 +1,17 @@
+D:\mphasis\26Feb\CourseEnd-Project1\UnitTestsPizza\obj\Debug\UnitTestsPizza.csproj.AssemblyReference.cache
+D:\mphasis\26Feb\CourseEnd-Project1\UnitTestsPizza\obj\Debug\UnitTestsPizza.csproj.CoreCompileInputs.cache
+D:\mphasis\26Feb\CourseEnd-Project1\UnitTestsPizza\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\mphasis\26Feb\CourseEnd-Project1\UnitTestsPizza\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\mphasis\26Feb\CourseEnd-Project1\UnitTestsPizza\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\mphasis\26Feb\CourseEnd-Project1\UnitTestsPizza\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\mphasis\26Feb\CourseEnd-Project1\UnitTestsPizza\bin\Debug\UnitTestsPizza.dll
+D:\mphasis\26Feb\CourseEnd-Project1\UnitTestsPizza\bin\Debug\UnitTestsPizza.pdb
+D:\mphasis\26Feb\CourseEnd-Project1\UnitTestsPizza\bin\Debug\ClassProjectLib.dll
+D:\mphasis\26Feb\CourseEnd-Project1\UnitTestsPizza\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\mphasis\26Feb\CourseEnd-Project1\UnitTestsPizza\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\mphasis\26Feb\CourseEnd-Project1\UnitTestsPizza\bin\Debug\ClassProjectLib.pdb
+D:\mphasis\26Feb\CourseEnd-Project1\UnitTestsPizza\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\mphasis\26Feb\CourseEnd-Project1\UnitTestsPizza\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\mphasis\26Feb\CourseEnd-Project1\UnitTestsPizza\obj\Debug\UnitTestsPizza.csproj.CopyComplete
+D:\mphasis\26Feb\CourseEnd-Project1\UnitTestsPizza\obj\Debug\UnitTestsPizza.dll
+D:\mphasis\26Feb\CourseEnd-Project1\UnitTestsPizza\obj\Debug\UnitTestsPizza.pdb

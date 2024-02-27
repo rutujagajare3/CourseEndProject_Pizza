@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>CourseEnd_Project1</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.16" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EditorConfigFiles Remove="D:\mphasis\26Feb\CourseEnd-Project1\CourseEnd-Project1\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="D:\mphasis\26Feb\CourseEnd-Project1\CourseEnd-Project1\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="ClassProjectLib">
+      <HintPath>..\ClassProjectLib\bin\Debug\ClassProjectLib.dll</HintPath>
+    </Reference>
+    <Reference Include="UnitTestsPizza">
+      <HintPath>..\UnitTestsPizza\bin\Debug\UnitTestsPizza.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
