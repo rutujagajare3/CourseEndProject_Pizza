@@ -229,3 +229,4 @@ D:\mphasis\26Feb\CourseEnd-Project1\CourseEnd-Project1\bin\Debug\net6.0\Microsof
 D:\mphasis\26Feb\CourseEnd-Project1\CourseEnd-Project1\bin\Debug\net6.0\ClassProjectLib.pdb
 D:\mphasis\26Feb\CourseEnd-Project1\CourseEnd-Project1\bin\Debug\net6.0\UnitTestsPizza.pdb
 D:\mphasis\26Feb\CourseEnd-Project1\CourseEnd-Project1\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\mphasis\26Feb\CourseEnd-Project1\CourseEnd-Project1\obj\Debug\net6.0\CourseEnd-Project1.sourcelink.json
